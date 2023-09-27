@@ -1,0 +1,55 @@
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{3E490997-B89D-4EB0-9471-985F51607938}|http">
+  <MonoDevelop.Ide.ItemProperties.powerPlantCodingChallenge.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <DisabledProjects>
+    <String>../powerPlantCodingCallenge.Tests/powerPlantCodingChallenge.Tests.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.ItemProperties.powerPlantCodingChallenge.APi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Services/ProductionPlanService.cs">
+    <Files>
+      <File FileName="services/ProductionPlanService.cs" Line="83" Column="13" />
+      <File FileName="Models/Fuels.cs" />
+      <File FileName="Models/PowerPlantType.cs" />
+      <File FileName=".gitignore" />
+      <File FileName="Program.cs" />
+      <File FileName="appsettings.json" />
+      <File FileName="appsettings.Development.json" />
+      <File FileName="Dtos/ProductionPlanDto.cs" />
+      <File FileName="Controllers/ProductionPlanController.cs" />
+      <File FileName="Mappers/IProductionPlanMapper.cs" />
+      <File FileName="Models/ProductionPlan.cs" />
+      <File FileName="Models/PowerPlant.cs" />
+      <File FileName="Models/energySources/EnergySource.cs" />
+      <File FileName="Models/energySources/GasSource.cs" />
+      <File FileName="Models/energySources/KerosineSource.cs" />
+      <File FileName="Models/energySources/WindSource.cs" />
+      <File FileName="Mappers/PowerPlantMapper.cs" />
+      <File FileName="Services/IProductionPlanService.cs" />
+      <File FileName="Mappers/ProductionPlanMapper.cs" />
+      <File FileName="Dtos/PowerPlantOutputDto.cs" />
+      <File FileName="Dtos/PowerPlantDto.cs" />
+      <File FileName="Mappers/IPowerPlantMapper.cs" />
+      <File FileName="Properties/launchSettings.json" />
+      <File FileName="Constant/MessageConstants.cs" />
+      <File FileName="obj/Debug/net7.0/powerPlantCodingChallenge.APi.GlobalUsings.g.cs" />
+      <File FileName="Exceptions/ComputeException.cs" />
+      <File FileName="Exceptions/ValidationException.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="powerPlantCodingChallenge" expanded="True">
+            <Node name="powerPlantCodingChallenge.APi" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

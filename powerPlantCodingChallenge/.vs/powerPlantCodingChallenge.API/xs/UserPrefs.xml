@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9F989BEB-22E9-411B-A502-57B0A5007CFC}|https">
+  <MonoDevelop.Ide.ItemProperties.powerPlantCodingChallenge.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="powerPlantCodingChallenge.API" selected="True">
+            <Node name="powerPlantCodingChallenge.API" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>

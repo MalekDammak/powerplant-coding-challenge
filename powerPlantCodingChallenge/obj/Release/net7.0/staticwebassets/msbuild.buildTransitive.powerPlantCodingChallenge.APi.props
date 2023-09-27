@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/powerPlantCodingChallenge.APi.props" />
+</Project>
